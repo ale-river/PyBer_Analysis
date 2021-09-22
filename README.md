@@ -14,7 +14,7 @@ The goal is to escalate the dataset in a chart presentation where different para
 ### Delivery 1
 
 1. The total number of rides for each city type is retrieved.
-!(https://github.com/ale-river/PyBer_Analysis/blob/main/Other_resources/1.png)
+![1](Other_resources/1.png)
 
 2. The total number of drivers for each city type is retrieved.
 !(https://github.com/ale-river/PyBer_Analysis/blob/main/Other_resources/2.png)
