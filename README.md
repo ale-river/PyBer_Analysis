@@ -53,7 +53,12 @@ A datafframe was created to `groupby()` function, the type of city and the dates
 4. A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
 ![1.4](Other_resources/4.2.png)
 
-5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. :brain: :globe_with_meridians:
+5. An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. :brain: :globe_with_meridians: :smiley: :100:
 ![1.5](Other_resources/5.2.png)
 
 ## Summary
+In conclusion, the analysis show that "Urban" type city is the one with higher demand of fares from January to the end of April. On the other hand, "Rural" type city has a very low activity with less than $500.00 in terms of fares in total per day.
+![Graph fig.8](analysis/Fig8.png)
+
+These results can be also showed by using a pie chart where by portionality, it is visible to realize that more than 80% of fares are allocated in "Urban". Meanwhile, "Suburban" type city has more than quarter of the total portion, as shows below.
+![Graph fig.7](analysis/Fig7.png)
